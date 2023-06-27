@@ -4,7 +4,7 @@
 
 I'm a software engineer with 11 years of experience across diverse areas of print and web design. I love blending the art of design with the technicality of programming to create captivating user experiences. As a natural problem solver, I enjoy learning new ways to bring ideas to life while maintaining accessible and clean code. I want to continue working with diverse, passionate teams to improve the world we live in.
 
-- 🔭 I’m currently working on [Shower Thoughts](https://github.com/NeffCodes/shower_thoughts)
+- 🔭 My most recent project: [Shower Thoughts](https://github.com/NeffCodes/shower_thoughts)
 
 - 📚 I’m currently learning **Authentication with the MERN stack**
 
