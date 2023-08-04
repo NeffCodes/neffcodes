@@ -6,7 +6,7 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
 
 - 🔭 My most recent project: [Shower Thoughts](https://github.com/NeffCodes/shower_thoughts)
 
-- 📚 I’m currently learning **T3 Stack**
+- 📚 I’m currently learning the **T3 Stack**
 
 - 🖌️ All of my projects are available at [https://jamesneff.com](https://jamesneff.com)
 
