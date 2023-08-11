@@ -8,7 +8,7 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
 
 - 📚 I’m currently learning the **T3 Stack**
 
-- 🖌️ All of my projects are available at [https://jamesneff.com](https://jamesneff.com)
+- 🖌️ YOu can view some of my projects below or at [https://jamesneff.com](https://jamesneff.com)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, or even Graphic Design**
 
