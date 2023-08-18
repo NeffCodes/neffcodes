@@ -132,7 +132,7 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
 
 ![neffcodes languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neffcodes&theme=vision-friendly-dark&hide_border=true&layout=compact&bg_color=0d1117&hide=ruby,shell)
 
-![neffcodes stats](https://github-readme-stats.vercel.app/api?username=neffcodes&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&count_private=true&show_icons=true&icon_color=fff)
+![neffcodes stats](https://github-readme-stats.vercel.app/api?username=neffcodes&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&count_private=true&show_icons=true&icon_color=fff&hide_rank=true)
 
 ![neffcodes streak](https://github-readme-streak-stats.herokuapp.com?user=neffcodes&theme=vision-friendly-dark&hide_border=true&background=0d1117&currStreakNum=fff&currStreakLabel=ffb000)
 </div>
