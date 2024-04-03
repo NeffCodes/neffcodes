@@ -130,12 +130,12 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
           <img src="https://github.com/NeffCodes/neffcodes/assets/72764232/3de73733-f131-47c9-a99a-615bf7fb15ab" alt="Screenshot of Homework Bound"/>
         </a>
         <section align="center">
-          <a href="[https://github.com/NeffCodes/Portfolio-v2.0](https://github.com/jaclynbrothers/homework-bound)" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+          <a href="[https://github.com/jaclynbrothers/homework-bound](https://github.com/jaclynbrothers/homework-bound)" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
           <a href="[https://homeworkbound.up.railway.app](https://homeworkbound.up.railway.app/)" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
         </section>
-        <p>Worked with a team of developers on full-stack application with MVC architecture to allow students to keep track of their classroom assignments and upcoming tests. Users can create, save, edit, and delete their assignment while setting an upcoming due date. Additional dependencies used: bcrypt, dotenv, express-session, mongoose, morgan, nodemon, passport, and validator.</p>
+        <p>Worked with a team of developers on full-stack application with MVC architecture to allow students to keep track of their classroom assignments and upcoming tests. Users can create, save, edit, and delete their assignments while setting an upcoming due date. Additional dependencies used: bcrypt, dotenv, express-session, mongoose, morgan, nodemon, passport, and validator.</p>
         <br />
-        <p><strong>Embedded JavaScript (EJS) | CSS } | Express | Node | MongoDB | Heroku</strong></p>
+        <p><strong>Embedded JavaScript (EJS) | CSS | Express | Node | MongoDB | Heroku</strong></p>
       </td>
       </tr>
   </tbody>
