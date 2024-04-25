@@ -22,7 +22,6 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
 
 <p align="center">
 <a href="https://linkedin.com/in/james-m-neff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-m-neff" height="30" width="40" /></a>
-<a href="https://twitter.com/neffcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neffcodes" height="30" width="40" /></a>
 <a href="https://codepen.io/neffcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="neffcodes" height="30" width="40" /></a>
 </p>
 
