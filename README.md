@@ -56,6 +56,21 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
   <tbody>    
     <tr width="100%">
       <td width="50%" v-align="top">
+        <h3 align="center">Eye Q: Diabetic Retinopathy Risk Assessment Tool</h3>
+        <br />
+        <a href="https://github.com/NeffCodes/retinopathy-risk-assessment-tool" target="_blank">
+          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/72764232/400493747-44101bde-db3d-4849-9bde-3ff32bbd66d8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250106T165943Z&X-Amz-Expires=300&X-Amz-Signature=a4eb3556c9797277b0784429a167e47b3f5a2df59c40feb207160603f9d8bb87&X-Amz-SignedHeaders=host" alt="EyE Q demo video" >
+        </a>
+        <section align="center">
+          <a href="https://github.com/NeffCodes/retinopathy-risk-assessment-tool" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+          </a>
+        </section>
+        <p>A comprehensive Full-Stack web application designed for clinics to efficiently manage patient data, upload retinal images, and utilize Convolutional Neural Networks (CNN) for machine learning to analyze the images. This application aims to assist healthcare professionals in the early detection and assessment of diabetic retinopathy, thereby improving patient outcomes through timely intervention.</p>
+        <br />
+        <p><strong>Python | Django | TailWind CSS | SQLite | CNN | FastAPI</strong></p>
+      </td>
+      <td width="50%" v-align="top">
         <h3 align="center">Glimpse into the Universe</h3>
         <br />
         <a href="https://glimpse-universe.netlify.app/" target="_blank">
@@ -73,6 +88,8 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
         <br />
         <p><strong>HTML5 | CSS3 | Javascript</strong></p>
       </td>
+    </tr>
+    <tr width="100%">
       <td width="50%" v-align="top">
         <h3 align="center">Shower Thoughts</h3>
         <br />
@@ -90,9 +107,7 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
         <p>A full-stack web app where users can log in to their profile, find their list of thoughts, add new thoughts, and edit/delete thoughts with a simple user interface.</p>
         <br />
         <p><strong>MongoDB | Express | Handlebars | Node.js | Google OAuth</strong></p>
-      </td>  
-    </tr>
-    <tr width="100%">
+      </td> 
       <td width="50%" v-align="top">
         <h3 align="center">jamesneff.com</h3>
         <br />
@@ -107,36 +122,36 @@ I'm a software engineer with 11 years of experience across diverse areas of prin
         <br />
         <p><strong>Figma | Next.js | Framer Motion</strong></p>
       </td>
-      <td width="50%" v-align="top">
-        <h3 align="center">Andriana's Pizza Toppings</h3>
-        <br />
-        <a href="https://ultimate-pizza-toppings.herokuapp.com/" target="_blank">
-          <img src="https://github.com/NeffCodes/pizza-crud/raw/main/public/images/readme.png" alt="Screenshot of Andriana's Pizza Toppings">
-        </a>
-        <section align="center">
-          <a href="https://github.com/NeffCodes/pizza-crud" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
-          <a href="https://ultimate-pizza-toppings.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
-        </section>
-        <p>A simple full-stack CRUD app to see what toppings truly belong on a pizza. Users are able to vote on, change their vote, and add what toppings they like.</p>
-        <br />
-        <p><strong>HTML5 | CSS3 | Express | MongoDB | EJS | Node.js</strong></p>
-      </td>
       </tr>
         <tr width="100%">
-      <td width="50%" v-align="top">
-        <h3 align="center">Homework Bound</h3>
-        <br />
-        <a href="https://homeworkbound.up.railway.app" target="_blank">
-          <img src="https://github.com/NeffCodes/neffcodes/assets/72764232/3de73733-f131-47c9-a99a-615bf7fb15ab" alt="Screenshot of Homework Bound"/>
-        </a>
-        <section align="center">
-          <a href="https://github.com/jaclynbrothers/homework-bound" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
-          <a href="https://homeworkbound.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
-        </section>
-        <p>Worked with a team of developers on full-stack application with MVC architecture to allow students to keep track of their classroom assignments and upcoming tests. Users can create, save, edit, and delete their assignments while setting an upcoming due date. Additional dependencies used: bcrypt, dotenv, express-session, mongoose, morgan, nodemon, passport, and validator.</p>
-        <br />
-        <p><strong>Embedded JavaScript (EJS) | CSS | Express | Node | MongoDB | Heroku</strong></p>
-      </td>
+          <td width="50%" v-align="top">
+            <h3 align="center">Andriana's Pizza Toppings</h3>
+            <br />
+            <a href="https://ultimate-pizza-toppings.herokuapp.com/" target="_blank">
+              <img src="https://github.com/NeffCodes/pizza-crud/raw/main/public/images/readme.png" alt="Screenshot of Andriana's Pizza Toppings">
+            </a>
+            <section align="center">
+              <a href="https://github.com/NeffCodes/pizza-crud" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+              <a href="https://ultimate-pizza-toppings.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
+            </section>
+            <p>A simple full-stack CRUD app to see what toppings truly belong on a pizza. Users are able to vote on, change their vote, and add what toppings they like.</p>
+            <br />
+            <p><strong>HTML5 | CSS3 | Express | MongoDB | EJS | Node.js</strong></p>
+          </td>
+          <td width="50%" v-align="top">
+            <h3 align="center">Homework Bound</h3>
+            <br />
+            <a href="https://homeworkbound.up.railway.app" target="_blank">
+              <img src="https://github.com/NeffCodes/neffcodes/assets/72764232/3de73733-f131-47c9-a99a-615bf7fb15ab" alt="Screenshot of Homework Bound"/>
+            </a>
+            <section align="center">
+              <a href="https://github.com/jaclynbrothers/homework-bound" target="_blank"><img src="https://img.shields.io/badge/CODE-202731?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>
+              <a href="https://homeworkbound.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-e69522?style=for-the-badge" style="max-width: 100%;"></a>
+            </section>
+            <p>Worked with a team of developers on full-stack application with MVC architecture to allow students to keep track of their classroom assignments and upcoming tests. Users can create, save, edit, and delete their assignments while setting an upcoming due date. Additional dependencies used: bcrypt, dotenv, express-session, mongoose, morgan, nodemon, passport, and validator.</p>
+            <br />
+            <p><strong>Embedded JavaScript (EJS) | CSS | Express | Node | MongoDB | Heroku</strong></p>
+          </td>
       </tr>
   </tbody>
 </table>
