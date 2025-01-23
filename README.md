@@ -2,7 +2,7 @@
 
 # 👋Hello! I'm James
 
-I'm a software engineer with 11 years of experience across diverse areas of print and web design. I love blending the art of design with the technicality of programming to create captivating user experiences. As a natural problem solver, I enjoy learning new ways to bring ideas to life while maintaining accessible and clean code. I want to continue working with diverse, passionate teams to improve the world we live in.
+I'm a software engineer with 13 years of experience across diverse areas of print and web design. I love blending the art of design with the technicality of programming to create captivating user experiences. As a natural problem solver, I enjoy learning new ways to bring ideas to life while maintaining accessible and clean code. I want to continue working with diverse, passionate teams to improve the world we live in.
 
 - 🔭 My most recent project: [Retinopathy Assessment Tool](https://github.com/NeffCodes/retinopathy-risk-assessment-tool
 )
